@@ -30,7 +30,7 @@ const smsAvisos8 = () => { return `A descrição do grupo foi alterada e a nova 
 const smsAvisos9 = () => { return `*O nome do grupo foi alterado e o novo nome é:*` }
 
 //welcome
-const smsWel =  () => { return `Hora` }
+const smsWel =  () => { return `Olá` }
 const smsWel2 = () => { return `¿COMO VAI? 😃` }
 const smsWel3 = () => { return `¿COMO VAI?😃\n\n『 Bem-vindo a` }  
 const smsWel4 = () => { return `Prazer em conhecê-lo amigo 🤗\n\n_Lembre-se de ler as regras do grupo para não ter problemas 🧐_\n\n*Apenas curta esse grupo e divirta-se 🥳*` }
