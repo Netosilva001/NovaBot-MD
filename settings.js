@@ -10,8 +10,8 @@ global.premium = []
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
-global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
+global.botname = "𝑩𝑼𝑵𝑵𝒀 𝑩𝑶𝑻"
+global.wm = '𝑩𝑼𝑵𝑵𝒀-𝑩𝑶𝑻 💫'
 global.vs = '1.1.0'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
