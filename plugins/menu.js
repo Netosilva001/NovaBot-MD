@@ -193,6 +193,7 @@ let juegos = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩
 ┊┃ ❏ ${prefix}formarpareja
 ┊┃ ❏ ${prefix}txt _(texto)_
 ┊┃ ❏ ${prefix}fake _(texto + tag)_
+┊┃ ❏ ${prefix}casar _(texto +tag)_
 ┊┗━━━━━━━━━━━━━━•
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩`
 let efecto = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩
